@@ -1,0 +1,6 @@
+/.idea
+/build
+/dist
+/speechJammin.spec
+/venv
+/__pycache__
